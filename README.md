@@ -1,6 +1,6 @@
 # MaticPro
 Software educativo 
-Integrantes:
+realizado por los siguientes integrantes:
 - Fraider Causil
 - Karla Ferrer
 - Veronica Gutierrez
