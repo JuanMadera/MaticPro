@@ -2,7 +2,7 @@ const express = require("express");
 const app = express();
 
 app.get("/", (req, res) => {
-  res.send("Hola mundo de mierda");
+  res.send("Hola mundo xd");
 });
 
 app.get("/users", (req, res) => {
@@ -12,6 +12,6 @@ app.get("/users", (req, res) => {
   ];
   res.send(users);
 });
-app.listen(3000, () => {
-  console.log("Server on port http://localhost:3001");
+app.listen(3001, () => {
+  console.log("Server on port http://localhost:3000");
 });
