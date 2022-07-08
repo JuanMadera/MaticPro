@@ -1,0 +1,20 @@
+{
+  "name": "MaticPro",
+  "version": "1.0.0",
+  "description": "Software educativo \r realizado por los siguientes integrantes:\r - Fraider Causil\r - Karla Ferrer\r - Veronica Gutierrez\r - Juan Madera",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JuanMadera/MaticPro.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JuanMadera/MaticPro/issues"
+  },
+  "homepage": "https://github.com/JuanMadera/MaticPro#readme"
+}
