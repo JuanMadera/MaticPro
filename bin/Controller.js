@@ -8,8 +8,11 @@ class Controller{
     async connect(){
         try{
             await mongoose.connect(
-                "mongodb+srv://vgutierrezsandon82:vgutierrezsandon82@verogs.q5jh5cf.mongodb.net/MATRIC_PRO?retryWrites=true&w=majority",
-                {useNewUrlParser:true}
+                "mongodb+srv://vgutierrezsandon82:ROVCVjz9URbZ4Auq@verogs.q5jh5cf.mongodb.net/MATRIC_PRO?retryWrites=true&w=majority",
+                {useNewUrlParser:true}/* ,
+                {useUnifiedTopology: true},
+                {useFindAndModify: false} */
+
             );
             console.log("Conectado a la base de datos")
 
